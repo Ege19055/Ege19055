@@ -1,6 +1,6 @@
 <h1>Merhabalar, Ben ege!</h1>
 <pre>eren maldır</pre>
-<h4>Kullandığım Teknolojile</h4>
+<h4>Kullandığım Teknolojiler</h4>
 <table>
 <tr>
 
