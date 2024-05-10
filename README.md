@@ -1,12 +1,17 @@
 <h1>Merhabalar, Ben ege!</h1>
-<pre>eren maldır</pre>
+
 <h4>Kullandığım Teknolojiler</h4>
 <table>
 <tr>
 
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png"></td>
-
-
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png"</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"</td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"</td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png"</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"</td>
 </tr>
 </table>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br>
