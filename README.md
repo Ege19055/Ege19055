@@ -1,6 +1,7 @@
 <h1>Merhabalar, Ben Ege!</h1>
 
-<h4>Kullandığım Diller</h4>
+<h4>1 Kerede olsa kullandığım diller
+</h4>
 <table>
 <tr>
 
