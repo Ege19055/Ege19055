@@ -67,6 +67,6 @@
 ---
 <center>
   
-🚀 **Her geçen gün daha iyiye!**
+🚀 **Çalışmak Başarmanın Yarısıdır!**
 
 </center>
