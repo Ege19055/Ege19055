@@ -3,7 +3,7 @@
 ## 📌 Hakkımda
 <p align="center">
   - 🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum**<br><br>  
-  - 💻 **İlgi alanlarım:** Müzik Dinlemek, Kod Yazmak, Oyun Oynamak ve Aileyle Vakit geçirme  <br><br>
+  - 💻 **İlgi alanlarım:** Müzik Dinlemek, Kod Yazmak, Oyun Oynamak ve Aileyle Vakit geçirmek  <br><br>
   - 🚀 **Üzerinde çalıştığım projeler:** Henüz Devam Ettiğim Bir Proje Yok<br><br>
   - 🎯 **Hedeflerim:** İyi Bir Frontend Developer Olmak<br><br>
   - 📍 **Konum:** Türkiye, GMT+3<br>
