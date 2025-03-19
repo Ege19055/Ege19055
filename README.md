@@ -2,7 +2,7 @@
 
 ## 📌 Hakkımda
 <p align="center">
- 🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum**
+ -🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum**
 
 - 💻 **İlgi alanlarım:** Müzik dinlemek, kod yazmak, oyun oynamak ve aileyle vakit geçirmek.
 
