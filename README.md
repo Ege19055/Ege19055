@@ -21,14 +21,14 @@
 
 </p>
 
----
+
 
 ## 🏆 GitHub Başarılarım  
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ege19055&theme=onedark&row=2&column=4" alt="Ege19055 GitHub Trophy">
 </div>
 
----
+
 
 ## ⚙️ Kullandığım Araçlar  
 <p align="center">
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp" />
 </p>
 
----
+
 
 ## 📊 GitHub İstatistikleri  
 <div align="center">
@@ -53,7 +53,7 @@
 
 
 
----
+
 
 ## 📫 Bana Ulaşın!  
 <p align="center">
@@ -68,7 +68,7 @@
   </a>
 </p>
 
----
+
 <center>
   
 🚀 **Çalışmak Başarmanın Yarısıdır!**
