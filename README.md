@@ -41,7 +41,7 @@
 
 ## 📊 GitHub İstatistikleri  
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text_color=79ff97&langs_count=12">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12">
 <br><br>
   <a href="https://github.com/Ege19055/github-readme-stats">
     <img width="50%" alt="Ege19055's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ege19055&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
