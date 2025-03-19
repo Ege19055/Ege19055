@@ -2,10 +2,10 @@
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
 
 ## 📌 Hakkımda
-- 🎓 [Eğitim bilgisi ekleyebilirsin]
-- 💻 İlgi alanlarım: [Frontend/Backend/AI vb.]
-- 🚀 Üzerinde çalıştığım projeler: [Projelerini buraya ekleyebilirsin]
-- 🎯 Hedeflerim: [Öğrenmek istediğin diller/teknolojiler]
+- 🎓 [12.Sınıf Bilişim Teknolojilerinde Okuyorum]
+- 💻 İlgi alanlarım: [Frontend]
+- 🚀 Üzerinde çalıştığım projeler: [Henüz Devam Ettiğim Bir Proje Yok]
+- 🎯 Hedeflerim: [İyi Bir Frontend Developer Olmak İstiyorum]
 
 ---
 
