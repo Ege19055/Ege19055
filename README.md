@@ -45,10 +45,10 @@
 <br><br>
   <a href="https://github.com/Ege19055/github-readme-stats">
     <img width="50%" alt="Ege19055's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ege19055&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a><br><br>
+  </a><br><br>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ege19055&theme=github_dark)
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ege19055&theme=github_dark)
+
 
 ---
 
