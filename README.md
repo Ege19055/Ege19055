@@ -15,7 +15,7 @@
         <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"</td>
 </tr>
 </table>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br><h2>Stats</h2>
+<h2>Stats</h2>
 <div align="center">
 
 <p align="center">
