@@ -39,11 +39,12 @@
 
 ## ⚙️ Kullandığım Araçlar  
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Database-Navicat-green?style=flat&logo=navicat" />
-  <img src="https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/1d/Navicat_logo.png" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/XAMPP_Logo.svg" width="60" />
 </p>
+
 
 ---
 
