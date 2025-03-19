@@ -1,4 +1,3 @@
-Güncellenen Saat: <!--TIME-->00:00<!--ENDTIME-->
 
 <h1 align="center">Merhabalar, Ben Ege! 👋    
 
