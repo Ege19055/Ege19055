@@ -68,7 +68,8 @@
   </a>
 </p>
 
---
+---
+
 <center>
   
 🚀 **Çalışmak Başarmanın Yarısıdır!**
