@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ 1 Kez de Olsa Kullandığım Diller
+## 🚀 1 Kez de Olsa Kullandığım Diller
 <table>
 <tr>
 
@@ -17,10 +17,10 @@
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png"</td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png"</td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"</td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png"</td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png"</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png"</td>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png"</td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"</td>
 </tr>
 </table>
 
@@ -31,9 +31,6 @@
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
 ![Navicat](https://img.shields.io/badge/Database-Navicat-green?style=flat&logo=navicat)
 ![XAMPP](https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp)
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Container-Docker-blue?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat&logo=linux)
 
 ---
 
@@ -54,8 +51,7 @@
 ## 📫 Bana Ulaşın!
 [![Instagram](https://img.shields.io/badge/Instagram-19.ege05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/19.ege05)
 [![Discord](https://img.shields.io/badge/Discord-19.ege.055-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/19.ege.055)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ege19055/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ege19055)
+
 
 ---
 
