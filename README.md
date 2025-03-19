@@ -2,9 +2,9 @@
 
 ## 📊 Ziyaretçi Sayacı
 <p align="center">
-    ![Visitor Count](https://profile-counter.glitch.me/ege19055/count.svg)
- 
+    <img src="https://profile-counter.glitch.me/ege19055/count.svg" alt="Visitor Count">
 </p>
+
 
  ## 📌 Hakkımda
 <p align="center">
