@@ -18,9 +18,10 @@ jobs:
           sed -i "s|<!--TIME-->.*<!--ENDTIME-->|<!--TIME-->$TIME<!--ENDTIME-->|" README.md
 
       - name: Commit and push changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add README.md
-          git commit -m "⏰ Güncellenen Saat: $TIME" || exit 0
-          git push
+  run: |
+    git config --global user.name "GitHub Action"
+    git config --global user.email "action@github.com"
+    git add README.md
+    git commit -m "⏰ Güncellenen Saat: $TIME" || exit 0
+    git pull --rebase  # Güncellemeleri çekiyoruz
+    git push
