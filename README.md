@@ -7,7 +7,10 @@
 
 
 
- ## 📌 Hakkımda
+ ## 📌 Hakkımda 
+ <p align="end">
+    <img src="https://komarev.com/ghpvc/?username=ege19055&label=Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Ziyaretçi Sayacı">
+</p>
 <p align="center">
 -🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum** <br><br>
 -💻 **İlgi alanlarım:** Müzik dinlemek, kod yazmak, oyun oynamak ve aileyle vakit geçirmek.<br><br>
