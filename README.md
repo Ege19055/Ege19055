@@ -25,13 +25,15 @@
 </table>
 
 ---
-
+<center>
+ 
 ## ⚙️ Kullandığım Araçlar
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
 ![Navicat](https://img.shields.io/badge/Database-Navicat-green?style=flat&logo=navicat)
 ![XAMPP](https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp)
 
+</center>
 ---
 
 ## 📊 GitHub İstatistikleri
@@ -47,12 +49,13 @@
 </div>
 
 ---
+<center>
 
 ## 📫 Bana Ulaşın!
 [![Instagram](https://img.shields.io/badge/Instagram-19.ege05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/19.ege05)
 [![Discord](https://img.shields.io/badge/Discord-19.ege.055-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/19.ege.055)
 
-
+</center>
 ---
 
 🚀 **Her geçen gün daha iyiye!**
