@@ -1,0 +1,26 @@
+name: Update README with Time
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # Her 30 dakikada bir günceller
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          TIME=$(TZ=Europe/Istanbul date "+%H:%M - %d %b %Y")
+          sed -i "s|<!--TIME-->.*<!--ENDTIME-->|<!--TIME-->$TIME<!--ENDTIME-->|" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add README.md
+          git commit -m "⏰ Güncellenen Saat: $TIME" || exit 0
+          git push
