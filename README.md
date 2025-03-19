@@ -5,7 +5,7 @@
   - 🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum**<br>
   - 💻 **İlgi alanlarım:** Frontend Geliştirme<br>
   - 🚀 **Üzerinde çalıştığım projeler:** Henüz Devam Ettiğim Bir Proje Yok<br>
-  - 🎯 **Hedeflerim:** İyi Bir Frontend Developer Olmak<br>
+  - 🎯 **Hedeflerim:** İyi Bir Frontend Geliştiricisi Olmak<br>
   - 📍 **Konum:** Türkiye, GMT+3<br>
 </p>
 
