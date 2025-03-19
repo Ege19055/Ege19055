@@ -8,9 +8,6 @@
 - 📍 Konum: **Türkiye, GMT+3**
 
 ---
-
-
- ## 🚀 Diller  
  
 ## 🚀 1 Kez de Olsa Kullandığım Diller
 <table>
