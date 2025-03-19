@@ -1,4 +1,10 @@
+<p align="end">
+    <img src="https://komarev.com/ghpvc/?username=ege19055&label=Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Ziyaretçi Sayacı">
+</p>
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
+<p align="end">
+    <img src="https://komarev.com/ghpvc/?username=ege19055&label=Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Ziyaretçi Sayacı">
+</p>
 
  
 <p align="end">
