@@ -72,6 +72,6 @@
 
 <center>
   
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🚀 **Çalışmak Başarmanın Yarısıdır!**
+🚀 **Çalışmak Başarmanın Yarısıdır!**
 
 </center>
