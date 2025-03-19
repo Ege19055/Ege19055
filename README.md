@@ -19,6 +19,6 @@
 <div align="center">
 
 <p align="center">
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12&hide=php,ejs,hack">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ege19055&layout=compact&bg_color=0d1117&border_color=0d1117&text-color:79ff97&langs_count=12"><br><br>
   <a href="https://github.com/Ege19055/github-readme-stats"><img  width="64%" alt="Ege19055's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ege19055&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br><br>
 </p>
