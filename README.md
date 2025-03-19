@@ -1,9 +1,10 @@
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
 
-## 📊 Ziyaretçi Sayacı
+## 📊 Ziyaretçi Sayacı  
 <p align="center">
-    <img src="https://profile-counter.glitch.me/ege19055/count.svg" alt="Visitor Count">
+    <img src="https://komarev.com/ghpvc/?username=ege19055&label=Profil+Ziyaretleri&color=blue&style=for-the-badge" alt="Ziyaretçi Sayacı">
 </p>
+
 
 
  ## 📌 Hakkımda
