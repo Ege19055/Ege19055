@@ -10,7 +10,7 @@
 
 </p>
 
----
+
 
 ## </> tercih ettiğim diller
 <p align="center">
