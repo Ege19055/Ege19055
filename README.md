@@ -1,16 +1,19 @@
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
 
 ## 📌 Hakkımda
-- 🎓 12. Sınıf Bilişim Teknolojilerinde Okuyorum
-- 💻 İlgi alanlarım: **Frontend Geliştirme**
-- 🚀 Üzerinde çalıştığım projeler: **Henüz Devam Ettiğim Bir Proje Yok**
-- 🎯 Hedeflerim: **İyi Bir Frontend Developer Olmak**
-- 📍 Konum: **Türkiye, GMT+3**
+<p align="center">
+- 🎓 12. Sınıf Bilişim Teknolojilerinde Okuyorum<br>
+- 💻 İlgi alanlarım: **Frontend Geliştirme**<br>
+- 🚀 Üzerinde çalıştığım projeler: **Henüz Devam Ettiğim Bir Proje Yok**<br>
+- 🎯 Hedeflerim: **İyi Bir Frontend Developer Olmak**<br>
+- 📍 Konum: **Türkiye, GMT+3**<br>
+- 🕒 Gerçek Zamanlı Saat: <span id="time"></span><br>
+</p>
 
 ---
- 
+
 ## 🚀 1 Kez de Olsa Kullandığım Diller
-<table>
+<table align="center">
 <tr>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/C_Sharp_Icon.png/640px-C_Sharp_Icon.png" width="50"></td>
 <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="50"></td>
@@ -23,8 +26,6 @@
 </tr>
 </table>
 
-
-
 ---
 
 ## 🏆 GitHub Başarılarım  
@@ -35,10 +36,12 @@
 ---
 
 ## ⚙️ Kullandığım Araçlar  
-![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
-![Navicat](https://img.shields.io/badge/Database-Navicat-green?style=flat&logo=navicat)
-![XAMPP](https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp)
+<div align="center">
+  ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code)
+  ![Navicat](https://img.shields.io/badge/Database-Navicat-green?style=flat&logo=navicat)
+  ![XAMPP](https://img.shields.io/badge/Server-XAMPP-orange?style=flat&logo=xampp)
+</div>
 
 ---
 
@@ -55,10 +58,23 @@
 ---
 
 ## 📫 Bana Ulaşın!  
-[![Instagram](https://img.shields.io/badge/Instagram-19.ege05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/19.ege05)  
-[![Discord](https://img.shields.io/badge/Discord-19.ege.055-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/19.ege.055)  
-[![Mail Badge](https://img.shields.io/badge/Email-egeagdas36@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egeagdas36@gmail.com)  
+<div align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-19.ege05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/19.ege05)  
+  [![Discord](https://img.shields.io/badge/Discord-19.ege.055-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/19.ege.055)  
+  [![Mail Badge](https://img.shields.io/badge/Email-egeagdas36@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:egeagdas36@gmail.com)
+</div>
 
 ---
 
 🚀 **Her geçen gün daha iyiye!**
+
+<script>
+  function updateClock() {
+    var timeElement = document.getElementById('time');
+    var currentTime = new Date();
+    timeElement.innerHTML = currentTime.toLocaleString();
+  }
+
+  setInterval(updateClock, 1000);
+  updateClock(); // To display time immediately
+</script>
