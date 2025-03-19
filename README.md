@@ -1,5 +1,11 @@
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
 
+## 📊 Ziyaretçi Sayacı
+<p align="center">
+    ![Visitor Count](https://profile-counter.glitch.me/ege19055/count.svg)
+ 
+</p>
+
  ## 📌 Hakkımda
 <p align="center">
 -🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum** <br><br>
