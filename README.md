@@ -1,6 +1,6 @@
 <h1 align="center">Merhabalar, Ben Ege! 👋</h1>
 
-## 📌 Hakkımda
+                                                     ## 📌 Hakkımda
 <p align="center">
 -🎓 **12. Sınıf Bilişim Teknolojilerinde Okuyorum** <br><br>
 -💻 **İlgi alanlarım:** Müzik dinlemek, kod yazmak, oyun oynamak ve aileyle vakit geçirmek.<br><br>
