@@ -68,5 +68,8 @@
 </p>
 
 ---
-
+<center>
+  
 🚀 **Her geçen gün daha iyiye!**
+
+</center>
