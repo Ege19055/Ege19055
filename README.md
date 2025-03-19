@@ -1,4 +1,4 @@
-___<h1 align="center">Merhabalar, Ben Ege! 👋    
+<h1 align="center">Merhabalar, Ben Ege! 👋    
 
 
 <p align="end">
